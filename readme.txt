@@ -25,9 +25,6 @@ The key's randomart image is:
 +----[SHA256]-----+
 
 
-本地秘钥
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCbOspNhqmrcQDfFLuK/kCZJ+NBtUUQHIUtisgvagcW9VtKMbMC2/tuu8+aA0Pcdydssi/xabom5GZlbE0IvUbOnFeyaKb9GIvKzSR2yDU9I4YoXBPAFd4f/AUAZGwmApyfZhCynqHUGlRPwxpEIOEwEtHGYb5rTGh1XT2jHDRK4oYyoyXdWABuDP8Vzzhr0pkqzefTfTBgeVBUx/ltaJk03sHq+fqGCNbwSeFjHEgMfhrBtXjDRuevpEtDNTab5AZKqWhm6jYW25oCldLywjeuirdvdjnooUWEOIMe8AtFVSIjbg/hTCXUXh4+6e1N6yMKGjqGqsEIh16UCy+P5uEsYdCGP93x4ti1Vvr4auQe+z1uL01aeJyxElerg5Vk+ASFLRS9SjQGkNIdleShQYMr7ts2rezvOrycMKUgrYD/TcjixQ6rQ4zy9wLBmrXmN7RqhAofqgMmhzzQUJfWxkGQKNWxkhrFW3I5EYOx3AAeJgqH/JQGyhkCrn+4u9MEQc8= 253422477@qq.com
-
 创建仓库目录
 git init
 
