@@ -46,3 +46,5 @@ git push -u origin master
 
 删除分支：git branch -d <name>
 
+
+克隆修改
